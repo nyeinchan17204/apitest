@@ -1,0 +1,2 @@
+fastapi
+curl_cffi
